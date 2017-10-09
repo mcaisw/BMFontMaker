@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BMFont/bmfont.unity
+  isLoaded: 1
+  isActive: 1
